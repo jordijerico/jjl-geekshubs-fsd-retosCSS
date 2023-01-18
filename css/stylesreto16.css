@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    color: rgb(156, 35, 35);
+}
+
+table {
+    width: 75vh;
+    border: outset 5px rgb(250, 240, 209);
+}
+
+td {
+    border: 1px solid black;
+}
+
+.fondoVerde {
+    background-color: rgb(88, 160, 88);
+}
+
+.fondoNaranja {
+    background-color: rgb(255, 196, 86);
+}
+
+.fondoAmarillo{
+    background-color: rgb(250, 250, 105);
+}
+.fondoPisada{
+    background-image: url(../imagenes/fondopisadaperro.webp);
+    background-size: 250px;
+}
