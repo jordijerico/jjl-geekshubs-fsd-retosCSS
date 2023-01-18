@@ -1,0 +1,15 @@
+body{
+    font-size: larger;
+}
+table{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+.negrita{
+    font-weight: bold;
+}
+p{
+    width: 100vh;
+}
