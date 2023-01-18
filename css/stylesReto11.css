@@ -1,0 +1,19 @@
+
+table{
+    border: outset;
+    background-color: rgb(67, 124, 156);
+}
+th{
+    background-color: rgb(23, 65, 57);
+    color: rgb(204, 247, 202);
+    text-align: center;
+    padding: 4px;
+}
+
+.colorClaro{
+background-color: rgb(204, 247, 202);
+}
+.colorOscuro{
+    background-color: rgb(119, 165, 117);
+}
+
