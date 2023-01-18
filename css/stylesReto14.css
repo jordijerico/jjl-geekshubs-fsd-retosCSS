@@ -1,0 +1,32 @@
+body {}
+
+.imagenFondo {
+    background-image: url(../imagenes/pinguino.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    width: 1200px;
+    height: 900px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.divTabla {
+    
+}
+
+table {
+    border: outset;
+    width: 100vh;
+}
+
+.colorAmarillo {
+    background-color: rgb(238, 238, 101);
+    text-align: center;
+}
+
+.colorBlanco {
+    background-color: rgb(250, 250, 250);
+    text-align: center;
+    font-weight: bold;
+}
