@@ -1,0 +1,9 @@
+table,
+td {
+    border: 1px black solid;
+}
+
+.estilo {
+    font-weight: bold;
+    text-align: center;
+}
