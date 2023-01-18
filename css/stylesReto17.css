@@ -1,0 +1,101 @@
+body {
+    background-image: url("../imagenes/ac.jpg");
+    font-weight: bold;
+    height: 90vh;
+
+}
+
+div {
+    border: 1px solid black;
+    width: 275px;
+    height: 275px;
+    float: left;
+    margin-left: 140px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dentro {
+    background-image: url(../imagenes/back_mantel.jpg);
+    width: 200px;
+    height: 200px;
+    margin-right: 38px;
+    margin-left: 42px;
+    margin-bottom: 32px;
+}
+.dentro2{
+    background-image: url(../imagenes/back_mantel.jpg);
+    background-size: cover;
+
+    height: 200px;
+    margin-right: 38px;
+    margin-left: 42px;
+    margin-bottom: 32px;
+}
+.dentro3{
+    background-image:url(../imagenes/dh.jpg);
+    background-size: cover;
+    height: 200px;
+    margin-right: 38px;
+    margin-left: 42px;
+    margin-bottom: 32px;
+}
+.dentro4{
+    background-image: url(../imagenes/dh_2.jpg);
+    background-size: cover;
+    height: 125px;
+    margin-left: 0;
+    margin-bottom: 32px;
+}
+.dentro5{
+    background-image: url(../imagenes/dh_3.jpg);
+    background-size: contain;
+    width: 141px;
+    height: 273px;
+    margin-left: 0;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+p {
+    margin-bottom: 175px;
+}
+.pb {
+    margin-left: 4px;
+}
+
+.imagen1 {
+    background-image: url(../imagenes/back_mantel.jpg);
+    text-align: center;
+}
+
+.imagen3 {
+    background-image: url(../imagenes/back_mantel.jpg);
+    background-size: cover;
+    text-align: center;
+}
+.imagen4, .imagen6, .imagen7, .imagen8{
+    background-color: white;
+}
+.imagen5{
+    background-image:url(../imagenes/dh.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.imagen9{
+    background: rgb(144,247,1);
+background: linear-gradient(90deg, rgba(144,247,1,1) 0%, rgba(105,104,104,1) 92%);
+  }
+.imagen10{
+    background: rgb(120,23,23);
+background: linear-gradient(0deg, rgba(120,23,23,1) 6%, rgba(255,0,0,1) 36%, rgba(255,138,138,1) 100%);
+}
+.imagen11{
+    background: rgb(44,209,41);
+background: linear-gradient(0deg, rgba(44,209,41,1) 23%, rgba(251,251,251,1) 97%);
+}
+.imagen12{
+    background: rgb(33,142,32);
+background: linear-gradient(0deg, rgba(33,142,32,1) 23%, rgba(251,251,251,0) 97%);
+}
