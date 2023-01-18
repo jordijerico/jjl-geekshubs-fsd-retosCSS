@@ -1,6 +1,15 @@
-body{
+body {
     font-weight: bold;
 }
-.listaLetras{
-    
+
+.listaLetras {
+    list-style: lower-alpha;
+}
+
+.listaRomano {
+    list-style: upper-roman;
+}
+
+p {
+    margin-bottom: -15px;
 }
