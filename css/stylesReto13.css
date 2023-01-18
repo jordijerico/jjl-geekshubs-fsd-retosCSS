@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    font-weight: bold;
+}
+
+table {
+    border: 3px double black;
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+p {
+    text-align: center;
+    margin-bottom: 1px;
+}
+
+td {
+    border: 1.5px double black;
+}
+
+.celda1 {
+    background-color: rgb(152, 240, 117);
+}
+
+.celda2 {
+    background-color: aqua;
+    text-align: left;
+}
+
+.celda6 {
+    background-color: violet;
+    text-align: end;
+    padding-top: 24px;
+
+}
+
+.colorRojo {
+    color: red;
+}
