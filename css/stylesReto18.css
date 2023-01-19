@@ -1,1 +1,31 @@
+body {}
+
+img {
+    position: absolute;
+}
+
+.div1 {
+    position: absolute;
+    border: solid 1px blue;
+    width: 25vh;
+    height: 12vh;
+    background-color: rgb(126, 182, 255);
+    background-image: url(../imagenes/f03.png);
+    background-repeat: no-repeat;
+    z-index: -1;
+}
+
+.div1_1 {
+    position: absolute;
+    width: 25vh;
+    height: 14px;
+    z-index: 2;
+    margin-top: 98px;
+    background-image: url(../imagenes/f01.png);
+}
+
+.anterior {
+    position: absolute;
+}
+
 
